@@ -1,4 +1,6 @@
 ### Это шаблон для React  
-Установка: ```npm install```
-Компиляция: ```npm start```
-Компиляция на продакшн(не работает)) ): ```npm build```
+   Сюда включён webpack-dev-server   
+Установка: ```npm install```  
+Запуск локального сервера (без сборки): ```npm run start```  
+Компиляция (index.html и bandle.js в /dist): ```npm run dev```  
+Компиляция на продакшн: ```npm run build```  
