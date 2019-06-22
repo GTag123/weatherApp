@@ -1,4 +1,4 @@
-### Это шаблон для React  
+### Weather App
    Сюда включён webpack-dev-server
   
 * Установка: ```npm install```
