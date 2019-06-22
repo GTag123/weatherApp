@@ -7,6 +7,7 @@ module.exports = {
     path: path.join(__dirname, "/dist"),
     filename: "bundle.js"
   },
+  devtool: 'source-map',
   // mode and watch config I indicated in package.json
   // above simple webpack settings without modules
   module: {
